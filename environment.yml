@@ -1,0 +1,11 @@
+name: mlenv
+channels:
+  - conda-forge
+  - defaults
+dependencies:
+  - numpy
+  - scikit-learn
+  - matplotlib
+  - ipykernel
+  - ipympl
+prefix: /home/samcv/.conda/envs/mlenv
